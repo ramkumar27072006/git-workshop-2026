@@ -8,8 +8,10 @@ Add your name in the section below.
 
 Use this template:
 ```
-Pranay Vinod (https://github.com/Pranay-vinod07)
+[Your Name](Your GitHub Profile URL)
 ```
 
 # Contributors
-
+```
+[Pranay Vinod](https://github.com/Pranay-vinod07)
+```
