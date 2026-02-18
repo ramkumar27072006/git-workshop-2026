@@ -12,4 +12,5 @@ Use this template:
 ```
 
 # Contributors
+Siddharth J P (https://github.com/jpsiddharth2008)
 
