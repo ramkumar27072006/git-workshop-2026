@@ -13,4 +13,4 @@ Use this template:
 
 # Contributors
 
-Shyam(https://github.com/LuminaryNova)
+[Shyam](https://github.com/LuminaryNova)
