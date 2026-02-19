@@ -12,7 +12,7 @@ Use this template:
 ```
 
 # Contributors
-
+[Chakresh](https://github.com/Chakresh2232)
 [ROHIT](https://github.com/ROHIT-JR)
 [Siddharth J P](https://github.com/jpsiddharth2008)
 [Gokul Akash](https://github.com/GokulAkash4444)
